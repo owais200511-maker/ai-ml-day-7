@@ -32,13 +32,7 @@ https://www.samsung.com/levant/support/home-appliances/how-to-use-the-various-mo
 
 
 
-!pip install langchain-core==0.3.72
-!pip install langchain-openai==0.3.28
-!pip install langchain-community==0.3.27
-!pip install unstructured==0.18.11
-!pip install langchain-chroma==0.2.5
-!pip install langchain-text-splitters==0.3.9
-!pip install pydantic==2.11.9
+
 
 # Import the required packages
 from langchain_core.prompts import ChatPromptTemplate
